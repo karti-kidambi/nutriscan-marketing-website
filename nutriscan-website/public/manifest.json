@@ -1,0 +1,26 @@
+{
+  "name": "NutriScan — Food Scanner & AI Nutrition",
+  "short_name": "NutriScan",
+  "description": "Scan barcodes, nutrition labels, restaurant menus, and meal plates with smart nutrition intelligence.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0b1115",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["health", "fitness", "food"]
+}
